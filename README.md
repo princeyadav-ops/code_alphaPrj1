@@ -1,4 +1,4 @@
-# code_alphaP1
+# code_alphaPrj1
 # Netflix Movies & TV Shows Data Analysis
 
 ## Tools & Technologies
